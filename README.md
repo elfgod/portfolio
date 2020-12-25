@@ -1,5 +1,7 @@
 # My CV Website with my Portfolio
 
+![ElfGod Profile Picture](https://github.com/elfgod/portfolio/blob/main/elfGodFace.png?raw=true)
+
 ### Hi, i am ElfGod
 
 Please check my cv with all the links home, bio, projects, blog and contact me. 
